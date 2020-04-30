@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Portfolio Daniel Grießer', // <title>
-  manifestName: 'Identity',
-  manifestShortName: 'Landing', // max 12 characters
+  manifestName: 'Daniel Grießer',
+  manifestShortName: 'Portfolio', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#009cff',
   manifestThemeColor: '#009cff',
